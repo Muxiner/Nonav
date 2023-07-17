@@ -37,7 +37,7 @@
 <h4 class="text-gray"><i class="linecons-tag" style="margin-right: 7px;" id="常用推荐"></i>常用推荐</h4>
 ```
 
-列表内容：(每个 div class 中最多包含 4 个内容)
+列表内容：
 
 ```HTML
 <div class="row">
@@ -60,4 +60,3 @@
 <br />
     <!-- END 常用推荐 -->
 ```
-
